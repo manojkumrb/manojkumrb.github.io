@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Authors on Manoj Babu</title>
+    <title>Authors | Manoj Babu</title>
     <link>https://manojbabu.com/authors/</link>
-    <description>Recent content in Authors on Manoj Babu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    
-	    <atom:link href="https://manojbabu.com/authors/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://manojbabu.com/authors/index.xml" rel="self" type="application/rss+xml" />
+    <description>Authors</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://manojbabu.com/img/icon-192.png</url>
+      <title>Authors</title>
+      <link>https://manojbabu.com/authors/</link>
+    </image>
     
     <item>
       <title></title>
       <link>https://manojbabu.com/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
       <guid>https://manojbabu.com/authors/admin/</guid>
-      <description>&lt;p&gt;I am a doctoral student in the &lt;a href=&#34;https://go.warwick.ac.uk/DLM&#34; target=&#34;_blank&#34;&gt;Digital Lifecycle Managemet Group&lt;/a&gt; at WMG, University of the Warwick. My doctoral research focusses on optimisation and closed loop quality control of compliant-Part Assembly Process during the early design phase.&lt;/p&gt;
+      <description>&lt;p&gt;I am a research assistant in the &lt;a href=&#34;https://go.warwick.ac.uk/DLM&#34; target=&#34;_blank&#34;&gt;Digital Life-cycle Management Group&lt;/a&gt; at WMG, University of the Warwick. I have submitted my doctoral dissertation and am awaiting my viva. My doctoral research focused on utilising the spatial and spatio-temporal correlations in a manufacturing assembly process to improve the quality of the product during the early design phase.&lt;/p&gt;
 </description>
     </item>
     

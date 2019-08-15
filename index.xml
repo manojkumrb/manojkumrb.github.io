@@ -3,12 +3,14 @@
   <channel>
     <title>Manoj Babu</title>
     <link>https://manojbabu.com/</link>
-    <description>Recent content on Manoj Babu</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
-    <language>en-us</language>
-    
-	    <atom:link href="https://manojbabu.com/index.xml" rel="self" type="application/rss+xml" />
-    
+      <atom:link href="https://manojbabu.com/index.xml" rel="self" type="application/rss+xml" />
+    <description>Manoj Babu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <image>
+      <url>https://manojbabu.com/img/icon-192.png</url>
+      <title>Manoj Babu</title>
+      <link>https://manojbabu.com/</link>
+    </image>
     
   </channel>
 </rss>
