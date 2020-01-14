@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Space-time kalman filter | Manoj Babu</title>
+    <link>https://manojbabu.com/tags/space-time-kalman-filter/</link>
+      <atom:link href="https://manojbabu.com/tags/space-time-kalman-filter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Space-time kalman filter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://manojbabu.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Space-time kalman filter</title>
+      <link>https://manojbabu.com/tags/space-time-kalman-filter/</link>
+    </image>
+    
+    <item>
+      <title>Spatio-Temporal Adaptive Sampling for effective coverage measurement planning during quality inspection of free form surfaces using robotic 3D optical scanner</title>
+      <link>https://manojbabu.com/publication/babu-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://manojbabu.com/publication/babu-2019/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

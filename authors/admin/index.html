@@ -28,7 +28,7 @@
   
     
   
-  <meta name="description" content="Doctoral Student">
+  <meta name="description" content="Research Assistant">
 
   
   <link rel="alternate" hreflang="en-us" href="https://manojbabu.com/authors/admin/">
@@ -206,6 +206,42 @@
 
 
 
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-156203710-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag() {
+      dataLayer.push(arguments);
+  }
+
+  function trackOutboundLink(url) {
+    gtag('event', 'click', {
+         'event_category': 'outbound',
+         'event_label': url,
+         'transport_type': 'beacon',
+         'event_callback': function () {
+           document.location = url;
+         }
+    });
+    console.debug("Outbound link clicked: " + url);
+  }
+
+  function onClickCallback(event) {
+    if ((event.target.tagName !== 'A') || (event.target.host === window.location.host)) {
+      return;
+    }
+    trackOutboundLink(event.target);  
+  }
+
+  gtag('js', new Date());
+  gtag('config', 'UA-156203710-1', {});
+
+  
+  document.addEventListener('click', onClickCallback, false);
+</script>
+
+
   
 
 
@@ -236,7 +272,7 @@
   <meta property="og:site_name" content="Manoj Babu">
   <meta property="og:url" content="https://manojbabu.com/authors/admin/">
   <meta property="og:title" content="Manoj Babu | Manoj Babu">
-  <meta property="og:description" content="Doctoral Student"><meta property="og:image" content="https://manojbabu.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="og:description" content="Research Assistant"><meta property="og:image" content="https://manojbabu.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
   <meta property="twitter:image" content="https://manojbabu.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     
@@ -384,65 +420,7 @@
         
 
         <li class="nav-item">
-          <a class="nav-link " href="/#posts"><span>Posts</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#projects"><span>Projects</span></a>
-        </li>
-
-        
-        
-
-        
-
-        
-        
-        
-          
-        
-
-        
-        
-        
-        
-        
-        
-          
-          
-          
-            
-          
-          
-        
-
-        <li class="nav-item">
-          <a class="nav-link " href="/#featured"><span>Publications</span></a>
+          <a class="nav-link " href="/#publications"><span>Publications</span></a>
         </li>
 
         
@@ -541,13 +519,13 @@
 
       <div class="portrait-title">
         <h2>Manoj Babu</h2>
-        <h3>Doctoral Student</h3>
+        <h3>Research Assistant</h3>
 
         
         <h3>
-          
+          <a href="https://go.warwick.ac.uk/dlm" target="_blank" rel="noopener">
           <span>WMG, University of Warwick</span>
-          
+          </a>
         </h3>
         
       </div>
@@ -618,6 +596,21 @@
           </a>
         </li>
         
+        
+        
+        
+        
+        
+        
+        
+          
+        
+        <li>
+          <a href="/files/cv.pdf" >
+            <i class="ai ai-cv big-icon"></i>
+          </a>
+        </li>
+        
       </ul>
 
     </div>
@@ -629,7 +622,7 @@
 
     <p>I am a research assistant in the 
 <a href="https://go.warwick.ac.uk/DLM" target="_blank" rel="noopener">Digital Life-cycle Management Group</a>
- at WMG, University of the Warwick. I have submitted my doctoral dissertation and am awaiting my viva. My doctoral research focused on utilising the spatial and spatio-temporal correlations in a manufacturing assembly process to improve the quality of the product during the early design phase.</p>
+ at WMG, University of the Warwick. My doctoral research focused on utilising the spatial and spatio-temporal correlations in a manufacturing assembly process to improve the quality of the product during the early design phase.</p>
 
 
     <div class="row">
@@ -657,7 +650,7 @@
           <li>
             <i class="fa-li fas fa-graduation-cap"></i>
             <div class="description">
-              <p class="course">PhD in Industrial Engineering, 2019 (Awaiting viva examination)</p>
+              <p class="course">PhD in Engineering, 2020</p>
               <p class="institution">University of Warwick</p>
             </div>
           </li>

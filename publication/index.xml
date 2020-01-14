@@ -5,12 +5,44 @@
     <link>https://manojbabu.com/publication/</link>
       <atom:link href="https://manojbabu.com/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://manojbabu.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://manojbabu.com/publication/</link>
     </image>
+    
+    <item>
+      <title>Spatio-Temporal Adaptive Sampling for effective coverage measurement planning during quality inspection of free form surfaces using robotic 3D optical scanner</title>
+      <link>https://manojbabu.com/publication/babu-2019/</link>
+      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
+      <guid>https://manojbabu.com/publication/babu-2019/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shape Error Modelling and Analysis by Conditional Simulations of Gaussian Random Fields for Compliant Non-Ideal Sheet Metal Parts</title>
+      <link>https://manojbabu.com/publication/babu-2018/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://manojbabu.com/publication/babu-2018/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Adaptive Measurement and Modelling Methodology for In-line 3D Surface Metrology Scanners</title>
+      <link>https://manojbabu.com/publication/babu-2017/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://manojbabu.com/publication/babu-2017/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Integrated scheduling of rake and stockyard management with ship berthing: A block based evolutionary algorithm</title>
+      <link>https://manojbabu.com/publication/pratap-2016/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://manojbabu.com/publication/pratap-2016/</guid>
+      <description></description>
+    </item>
     
   </channel>
 </rss>
