@@ -5,7 +5,7 @@
     <link>https://manojbabu.com/tags/</link>
       <atom:link href="https://manojbabu.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <description>Tags</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2020 15:28:32 +0000</lastBuildDate>
     <image>
       <url>https://manojbabu.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Tags</title>
@@ -13,41 +13,9 @@
     </image>
     
     <item>
-      <title>In-line adaptive measurement</title>
-      <link>https://manojbabu.com/tags/in-line-adaptive-measurement/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://manojbabu.com/tags/in-line-adaptive-measurement/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>In-line free-form surface inspection</title>
-      <link>https://manojbabu.com/tags/in-line-free-form-surface-inspection/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://manojbabu.com/tags/in-line-free-form-surface-inspection/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Space-time kalman filter</title>
-      <link>https://manojbabu.com/tags/space-time-kalman-filter/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://manojbabu.com/tags/space-time-kalman-filter/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatio-temporal sampling</title>
-      <link>https://manojbabu.com/tags/spatio-temporal-sampling/</link>
-      <pubDate>Tue, 01 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>https://manojbabu.com/tags/spatio-temporal-sampling/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Conditional simulation</title>
       <link>https://manojbabu.com/tags/conditional-simulation/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jan 2020 15:28:32 +0000</pubDate>
       <guid>https://manojbabu.com/tags/conditional-simulation/</guid>
       <description></description>
     </item>
@@ -55,16 +23,56 @@
     <item>
       <title>Gaussian Process Regression</title>
       <link>https://manojbabu.com/tags/gaussian-process-regression/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jan 2020 15:28:32 +0000</pubDate>
       <guid>https://manojbabu.com/tags/gaussian-process-regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Gaussian RAndom Fields</title>
+      <link>https://manojbabu.com/tags/gaussian-random-fields/</link>
+      <pubDate>Fri, 17 Jan 2020 15:28:32 +0000</pubDate>
+      <guid>https://manojbabu.com/tags/gaussian-random-fields/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Non-ideal part modelling</title>
       <link>https://manojbabu.com/tags/non-ideal-part-modelling/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 17 Jan 2020 15:28:32 +0000</pubDate>
       <guid>https://manojbabu.com/tags/non-ideal-part-modelling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-line adaptive measurement</title>
+      <link>https://manojbabu.com/tags/in-line-adaptive-measurement/</link>
+      <pubDate>Fri, 17 Jan 2020 14:45:57 +0000</pubDate>
+      <guid>https://manojbabu.com/tags/in-line-adaptive-measurement/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>In-line free-form surface inspection</title>
+      <link>https://manojbabu.com/tags/in-line-free-form-surface-inspection/</link>
+      <pubDate>Fri, 17 Jan 2020 14:45:57 +0000</pubDate>
+      <guid>https://manojbabu.com/tags/in-line-free-form-surface-inspection/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Space-time kalman filter</title>
+      <link>https://manojbabu.com/tags/space-time-kalman-filter/</link>
+      <pubDate>Fri, 17 Jan 2020 14:45:57 +0000</pubDate>
+      <guid>https://manojbabu.com/tags/space-time-kalman-filter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatio-temporal sampling</title>
+      <link>https://manojbabu.com/tags/spatio-temporal-sampling/</link>
+      <pubDate>Fri, 17 Jan 2020 14:45:57 +0000</pubDate>
+      <guid>https://manojbabu.com/tags/spatio-temporal-sampling/</guid>
       <description></description>
     </item>
     

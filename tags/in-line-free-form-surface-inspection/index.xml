@@ -5,12 +5,96 @@
     <link>https://manojbabu.com/tags/in-line-free-form-surface-inspection/</link>
       <atom:link href="https://manojbabu.com/tags/in-line-free-form-surface-inspection/index.xml" rel="self" type="application/rss+xml" />
     <description>In-line free-form surface inspection</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 17 Jan 2020 14:45:57 +0000</lastBuildDate>
     <image>
       <url>https://manojbabu.com/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>In-line free-form surface inspection</title>
       <link>https://manojbabu.com/tags/in-line-free-form-surface-inspection/</link>
     </image>
+    
+    <item>
+      <title>In-Process Quality Improvement (IPQI)</title>
+      <link>https://manojbabu.com/project/ipqi/</link>
+      <pubDate>Fri, 17 Jan 2020 14:45:57 +0000</pubDate>
+      <guid>https://manojbabu.com/project/ipqi/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://warwick.ac.uk/fac/sci/wmg/research/materials/dlm/projects/ipqi_new/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPQI project&#39;s&lt;/a&gt;
+ goal is to develop, implement, demonstrate, and pilot in the industry, a systematic closed-loop quality improvement methodology with in-process adaptive monitoring capable of self-recovery from 6-sigma quality defects.&lt;/p&gt;
+&lt;p&gt;As a part of this project I developed the 
+&lt;a href=&#34;https://manojbabu.com/publication/babu-2019/&#34;&gt;STAS methodology&lt;/a&gt;
+, which enables the prediction of whole part deviation of a free-form surface based on partial measurement of the surface. Partial measurements reduce the time needed for the inspection of a given part and enable the effective in-line application of a 3D-Optical scanner.&lt;/p&gt;
+&lt;p&gt;The video below illustrates the methodology applied to an automotive door inner component, where, it can be seen that, the prediction error is almost zero after completion of 3 out of the total 18  measurements required to measure the entire part.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;STM_convertedTrim.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;Research articles describing the STAS methodology in detail can be downloaded from 
+&lt;a href=&#34;https://manojbabu.com/publication/babu-2019/&#34;&gt;HERE&lt;/a&gt;
+&amp;amp; 
+&lt;a href=&#34;https://manojbabu.com/publication/babu-2017/&#34;&gt;HERE&lt;/a&gt;
+, the 
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3386357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;Matlab code&lt;/code&gt;&lt;/a&gt;
+ implementing the same can be 
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3386357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;found HERE&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>In-Process Quality Improvement (IPQI)</title>
+      <link>https://manojbabu.com/project/ipqi/</link>
+      <pubDate>Fri, 17 Jan 2020 14:45:57 +0000</pubDate>
+      <guid>https://manojbabu.com/project/ipqi/</guid>
+      <description>&lt;p&gt;
+&lt;a href=&#34;https://warwick.ac.uk/fac/sci/wmg/research/materials/dlm/projects/ipqi_new/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;IPQI project&#39;s&lt;/a&gt;
+ goal is to develop, implement, demonstrate, and pilot in the industry, a systematic closed-loop quality improvement methodology with in-process adaptive monitoring capable of self-recovery from 6-sigma quality defects.&lt;/p&gt;
+&lt;p&gt;As a part of this project I developed the 
+&lt;a href=&#34;https://manojbabu.com/publication/babu-2019/&#34;&gt;STAS methodology&lt;/a&gt;
+, which enables the prediction of whole part deviation of a free-form surface based on partial measurement of the surface. Partial measurements reduce the time needed for the inspection of a given part and enable the effective in-line application of a 3D-Optical scanner.&lt;/p&gt;
+&lt;p&gt;The video below illustrates the methodology applied to an automotive door inner component, where, it can be seen that, the prediction error is almost zero after completion of 3 out of the total 18  measurements required to measure the entire part.&lt;/p&gt;
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+&lt;video controls &gt;
+  &lt;source src=&#34;STM_convertedTrim.mp4&#34; type=&#34;video/mp4&#34;&gt;
+&lt;/video&gt;
+&lt;p&gt;Research articles describing the STAS methodology in detail can be downloaded from 
+&lt;a href=&#34;https://manojbabu.com/publication/babu-2019/&#34;&gt;HERE&lt;/a&gt;
+&amp;amp; 
+&lt;a href=&#34;https://manojbabu.com/publication/babu-2017/&#34;&gt;HERE&lt;/a&gt;
+, the 
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3386357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;&lt;code&gt;Matlab code&lt;/code&gt;&lt;/a&gt;
+ implementing the same can be 
+&lt;a href=&#34;https://doi.org/10.5281/zenodo.3386357&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;found HERE&lt;/a&gt;
+.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Spatio-Temporal Adaptive Sampling for effective coverage measurement planning during quality inspection of free form surfaces using robotic 3D optical scanner</title>
